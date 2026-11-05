@@ -1,4 +1,4 @@
-Shakib Studio Hub (v3): ফ্রি অনলাইন লিংকে তোলার ধাপ (GitHub Pages)
+Shakib Studio Hub (v4): ফ্রি অনলাইন লিংকে তোলার ধাপ (GitHub Pages)
 =================================================================
 এই ফোল্ডারের সবগুলো ফাইল একসাথে আপলোড করতে হবে:
 index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, icon-maskable-512.png
