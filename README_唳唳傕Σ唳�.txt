@@ -1,4 +1,4 @@
-Shakib Studio Hub (v6): ফ্রি অনলাইন লিংকে তোলার ধাপ (GitHub Pages)
+Shakib Studio Hub (v8): ফ্রি অনলাইন লিংকে তোলার ধাপ (GitHub Pages)
 =================================================================
 এই ফোল্ডারের সবগুলো ফাইল একসাথে আপলোড করতে হবে:
 index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, icon-maskable-512.png
@@ -20,3 +20,10 @@ index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, icon-maskab
 
 সতর্কতা:
 - Repository Public হলে ফাইল কেউ খুঁজে পেলে দেখতে পারে। ফাইলের ভেতরে API key লিখবেন না। টুলে বসানো key শুধু আপনার ব্রাউজারে সেভ থাকে।
+
+পাসওয়ার্ড লক (v8):
+- লক করা টুল: Lumen Loop, Motion Atelier, Motion Metrics, Christmas Loop (ভিডিও টুল ৪টা), Background Studio Pro, Lumi Bloom, Frostlight, Seamless Pattern Studio, Merry Tiles Christmas। বাকিগুলো খোলা।
+- লক করা টুলে চাপলে পাসওয়ার্ড চাইবে। একবার আনলক করলে ৯টাই একসাথে খুলে যায়।
+- "এই ডিভাইসে মনে রাখো" টিক দিলে ওই ফোন বা পিসিতে আর চাইবে না।
+- লক করা টুলগুলো ফাইলের ভেতরে এনক্রিপ্ট করা আছে, তাই সোর্স দেখে সরাসরি পড়া যাবে না। তবে ৫ সংখ্যার পাসওয়ার্ড সাধারণ সুরক্ষা, খুব দৃঢ় নয়।
+- পাসওয়ার্ড বদলাতে হলে আমাকে নতুন পাসওয়ার্ড বলুন, নতুন জিপ বানিয়ে দেব।
