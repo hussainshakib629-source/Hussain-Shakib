@@ -1,4 +1,4 @@
-Sakib Studio Pro v1.0.2: ফ্রি অনলাইন লিংকে তোলার ধাপ (GitHub Pages)
+Sakib Studio Pro v1.0.3: ফ্রি অনলাইন লিংকে তোলার ধাপ (GitHub Pages)
 =================================================================
 এই ফোল্ডারের সবগুলো ফাইল একসাথে আপলোড করতে হবে:
 index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, icon-maskable-512.png
@@ -41,3 +41,9 @@ v1.0.2 পরিবর্তন:
 - ডাউনলোড এখন একটা ছোট "⬇ Export" ড্রপডাউনে: ফরম্যাট (PNG/JPG/SVG/EPS), ZIP/প্যাক, আর Collection।
 - Collection: "＋ Add this design" দিয়ে যত খুশি ডিজাইন জমানো যায় (সব টুল মিলিয়ে)। ডাউনলোডে ফরম্যাট বেছে নেওয়া যায়, একটা ZIP আসে।
 - SVG: গ্রেডিয়েন্ট ডুপ্লিকেট কমানো, সংখ্যা ছোট করা, লেয়ার ক্লিন-আপ (v1.0.1 থেকে চলমান)।
+
+v1.0.3 পরিবর্তন:
+- সরানো হয়েছে: পুরনো Metadata Generator Pro। এর জায়গায় Metadata Studio Pro (আপনার ফাইনাল "Best Metadata pro" ফাইল, অপরিবর্তিত)।
+- নতুন: Adobe Stock Intelligence (Stock), Image to Master Prompt Studio ও Sakib AI Chat Studio (Prompt Tools), Sakib Light FX Studio (Overlays & Effects), Sakib Creative PRO (Backgrounds)।
+- Collection এখন Export মেনুর বাইরে: "⬇ Export" (শুধু ডাউনলোড), "＋ Collection" (ডিজাইন জমা, উড়ে গিয়ে Batch-এ পড়ে), "📦 Batch" (খুললে অ্যানিমেশনসহ জিজ্ঞেস করে PNG / JPG / SVG / EPS কোনটা নামাবেন)।
+- Image to Master Prompt-এ বন্ধ হয়ে যাওয়া Gemini 1.5 / 2.0 / 3.1 মডেল বাদ, Gemini 3.8 Flash এখন প্রথমে।
