@@ -1,4 +1,4 @@
-Sakib Studio Pro v1.0.3: ফ্রি অনলাইন লিংকে তোলার ধাপ (GitHub Pages)
+Sakib Studio Pro v1.0.5: ফ্রি অনলাইন লিংকে তোলার ধাপ (GitHub Pages)
 =================================================================
 এই ফোল্ডারের সবগুলো ফাইল একসাথে আপলোড করতে হবে:
 index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png, icon-maskable-512.png
@@ -47,3 +47,13 @@ v1.0.3 পরিবর্তন:
 - নতুন: Adobe Stock Intelligence (Stock), Image to Master Prompt Studio ও Sakib AI Chat Studio (Prompt Tools), Sakib Light FX Studio (Overlays & Effects), Sakib Creative PRO (Backgrounds)।
 - Collection এখন Export মেনুর বাইরে: "⬇ Export" (শুধু ডাউনলোড), "＋ Collection" (ডিজাইন জমা, উড়ে গিয়ে Batch-এ পড়ে), "📦 Batch" (খুললে অ্যানিমেশনসহ জিজ্ঞেস করে PNG / JPG / SVG / EPS কোনটা নামাবেন)।
 - Image to Master Prompt-এ বন্ধ হয়ে যাওয়া Gemini 1.5 / 2.0 / 3.1 মডেল বাদ, Gemini 3.8 Flash এখন প্রথমে।
+
+v1.0.4 পরিবর্তন:
+- নতুন টুল: AquaDrop Studio, Film Dust Studio (Overlays & Effects), Starburst Studio (Backgrounds), Motif Loom (Patterns), Grass Studio (নতুন টপিক: Nature & Scenery, সাথে Vector Landscape)।
+- AquaDrop-এ নতুন Export/Collection/Batch বাটন। Motif Loom-এ নিজের Collection ও Export আগের মতোই আছে।
+- পুরো সাইট এখন পাসওয়ার্ড-লকড (এনক্রিপ্টেড)। লক ছাড়া ভেতরের কিছু দেখা যায় না।
+
+v1.0.5 পরিবর্তন:
+- Export ড্রপডাউন সরানো হয়েছে। PNG, JPG, SVG, EPS এখন সরাসরি টুলবারে। ZIP/প্যাক বাটন "🗜 ZIP" মেনুতে।
+- ＋ Collection শুধু ডিজাইন জমা করে। 📦 Batch খুললে আগের মতোই ফরম্যাট বাছার পপআপ আসে।
+- সাইটের পাসওয়ার্ড বদলানো হয়েছে।
