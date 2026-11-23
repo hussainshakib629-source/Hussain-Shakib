@@ -1,15 +1,15 @@
-Sakib Studio Pro v1.0.9 — PERSONAL
+Sakib Studio Pro v1.1.0 — PERSONAL
 ====================================
 আপলোড: index.html, sw.js, manifest.webmanifest ও আইকনগুলো একসাথে আপলোড করুন।
 
-এই ভার্সনে যা আছে
-- ৪৬টা টুল, ১০টা ক্যাটাগরি।
-- নতুন (Overlays & Effects): Sakib Ribbon Pro (সিঙ্গেল ও মাল্টি-রিবন শিট, ৩৮ প্রিসেট, ১০ স্টক শিট, ৩০ শেপ, ৮ ফিনিশ, SVG/EPS/PNG/JPG/ZIP), Sakib Glow Studio Pro (HDR গ্লো, নিয়ন ফ্রেম, লেন্স ফ্লেয়ার, বোকে ও গ্লিটার ডাস্ট, ৩৬ প্রিসেট, ইমেজ ও ভেক্টর মোড)।
-- ক্রিসমাস টুল: Christmas & New Year 2027 Studio, Paper-cut Christmas Studio 2027।
-- অন্যান্য: Vintage Grunge Overlay Studio (Overlays), Vintage Frame Studio (Backgrounds), Sakib Icon Studio (Icons)।
-- Grass Studio: ভিডিও সেকশন (MP4/MOV, 4K/5K, 24–60 fps, Green/Blue/Black/White/Custom ব্যাকগ্রাউন্ড)।
-- Starburst: SVG ও EPS আর্টবোর্ডের বাইরে কিছু লেখে না (কোণা-কাটা জিওমেট্রি)।
-- sw.js ক্যাশ ভার্সন v1.0.9; আগের সব টুল ও ফাইল অপরিবর্তিত রাখা হয়েছে।
-
-
-[Artboard-fit] সব ভেক্টর টুলের SVG/EPS ডাউনলোডে আর্টবোর্ডের বাইরের অংশ জ্যামিতিকভাবে কেটে ফেলা হয় (ক্লিপিং মাস্ক ছাড়া)। রাস্টার-EPS টুল (Creative, Light FX) ও Vintage Frame EPS অপরিবর্তিত। EPS-এ আসল গ্রুপ নেই; গ্রেডিয়েন্ট ধাপগুলো একই লেয়ারে থাকে।
+এই ভার্সনে যা যা আপডেট করা হয়েছে (50টা টুল, ১০টা ক্যাটাগরি)
+- নতুন ৭টি প্রো টুল যুক্ত: Sakib Starlight Pro (Overlays & Effects), Sakib 3D Abstract Sphere Pro, Sakib New Year 2027 Pro, Sakib Nouveau Atelier Pro, Sakib Reference Studio Pro (Backgrounds), Sakib GlimmerForge Pro (Motion Video), Sakib Vector Pattern Pro (Patterns)।
+- Sakib Creative PRO: ওপরে Raster (JPG/PNG, ৪–১০০ MP) ও Vector (Illustrator-সেফ লেয়ার্ড SVG/EPS) দুটি ট্যাব, অটোমেটিক ফাইল-সাইজ অপ্টিমাইজেশন এবং মোবাইল-ডেস্কটপ ফ্রেন্ডলি লেআউট।
+- মোবাইল ও ডেস্কটপ লেআউট ফিক্স: Sakib Starburst Studio, Vintage Frame Studio, Sakib Motif Loom ও Sakib Icon Studio-তে ডাউনলোড → প্রিভিউ → ক্যানভাস সাইজ অর্ডার ও সহজ UI।
+- ক্যাটাগরি আপডেট: Christmas Loop Studio → Motion Video (আনলকড), Frostlight Studio ও FrostGlow Studio → Overlays & Effects।
+- রিনেম: Sakib Ribbon Studio → Ribbon Studio Raster (নতুন আইকন 🎗️)।
+- রিমুভ: Vector Landscape, Wisp Smoke Studio, Sakib AI Chat Studio।
+- ক্রিসমাস লক: বাকি ৫টি ক্রিসমাস টুল পাসওয়ার্ড (90872) দিয়ে লক করা হয়েছে।
+- ক্লিন UI: পুরোনো সব টুলের নিচের অপ্রয়োজনীয় ইনস্ট্রাকশন টেক্সট রিমুভ করা হয়েছে।
+- হাব ল্যান্ডস্কেপ ও মোবাইল ফিক্স: স্ক্রলেবল সাইডবার হেডার, অ্যানিমেটেড কলাপ্সেবল হোম/হেল্প/সোশ্যাল ট্রে এবং মোবাইল ল্যান্ডস্কেপে ফুল-স্ক্রিন ড্রয়ার।
+- sw.js ক্যাশ ভার্সন v1.1.0।
