@@ -2,14 +2,13 @@ Sakib Studio Pro v1.1.0 — PERSONAL
 ====================================
 আপলোড: index.html, sw.js, manifest.webmanifest ও আইকনগুলো একসাথে আপলোড করুন।
 
-এই ভার্সনে যা যা আপডেট করা হয়েছে (50টা টুল, ১০টা ক্যাটাগরি)
-- নতুন ৭টি প্রো টুল যুক্ত: Sakib Starlight Pro (Overlays & Effects), Sakib 3D Abstract Sphere Pro, Sakib New Year 2027 Pro, Sakib Nouveau Atelier Pro, Sakib Reference Studio Pro (Backgrounds), Sakib GlimmerForge Pro (Motion Video), Sakib Vector Pattern Pro (Patterns)।
-- Sakib Creative PRO: ওপরে Raster (JPG/PNG, ৪–১০০ MP) ও Vector (Illustrator-সেফ লেয়ার্ড SVG/EPS) দুটি ট্যাব, অটোমেটিক ফাইল-সাইজ অপ্টিমাইজেশন এবং মোবাইল-ডেস্কটপ ফ্রেন্ডলি লেআউট।
-- মোবাইল ও ডেস্কটপ লেআউট ফিক্স: Sakib Starburst Studio, Vintage Frame Studio, Sakib Motif Loom ও Sakib Icon Studio-তে ডাউনলোড → প্রিভিউ → ক্যানভাস সাইজ অর্ডার ও সহজ UI।
-- ক্যাটাগরি আপডেট: Christmas Loop Studio → Motion Video (আনলকড), Frostlight Studio ও FrostGlow Studio → Overlays & Effects।
-- রিনেম: Sakib Ribbon Studio → Ribbon Studio Raster (নতুন আইকন 🎗️)।
-- রিমুভ: Vector Landscape, Wisp Smoke Studio, Sakib AI Chat Studio।
-- ক্রিসমাস লক: বাকি ৫টি ক্রিসমাস টুল পাসওয়ার্ড (90872) দিয়ে লক করা হয়েছে।
-- ক্লিন UI: পুরোনো সব টুলের নিচের অপ্রয়োজনীয় ইনস্ট্রাকশন টেক্সট রিমুভ করা হয়েছে।
-- হাব ল্যান্ডস্কেপ ও মোবাইল ফিক্স: স্ক্রলেবল সাইডবার হেডার, অ্যানিমেটেড কলাপ্সেবল হোম/হেল্প/সোশ্যাল ট্রে এবং মোবাইল ল্যান্ডস্কেপে ফুল-স্ক্রিন ড্রয়ার।
-- sw.js ক্যাশ ভার্সন v1.1.0।
+এই ভার্সনে যা আছে (50টা টুল, 11টা ক্যাটাগরি)
+- নতুন Occasion (অকেশন) সেকশন: ১২ মাসের ট্যাব (জানুয়ারি–ডিসেম্বর); জানুয়ারি ট্যাবে ২০২৭ / হ্যাপি নিউ ইয়ার টুলস (Sakib GlimmerForge Pro, Sakib New Year 2027 Pro) যুক্ত করা হয়েছে।
+- সব কন্টেন্ট টুলে মোবাইল ও ডেস্কটপ ইউনিফায়েড লেআউট:
+  • মোবাইল পোর্ট্রেট: ডাউনলোড বার → প্রিভিউ → ক্যানভাস সাইজ (#১) → কাস্টমাইজেশন।
+  • মোবাইল ল্যান্ডস্কেপ ও ডেস্কটপ: পূর্ণ ডেস্কটপ স্প্লিট-স্ক্রিন লেআউট।
+- Vintage Frame Studio ও Sakib Motif Loom: মোবাইল প্রিভিউ ফিক্স ও সহজ স্ক্রলেবল UI।
+- রাস্টার (JPG/PNG) ৪–১০০ MP ও অটো ≤৪৪ MB সাইজ গার্ড এবং ভেক্টর (SVG/EPS) ইনট্যাক্ট ইলাস্ট্রেটর লেয়ার।
+- নতুন সার্কেল-গ্লো অ্যাপ আইকন ও আইকন জুম-ইন ওপেনিং অ্যানিমেশন।
+- ডেস্কটপে ক্লাসিক ফুল সাইডবার অপরিবর্তিত; শুধু মোবাইলে (পোর্ট্রেট ও ল্যান্ডস্কেপ) স্মার্ট স্লাইড ড্রয়ার ও অ্যানিমেটেড ফুটার ট্রে।
+- ক্রিসমাস লক: বাকি ৫টি ক্রিসমাস টুল পাসওয়ার্ড (90872) দিয়ে লক করা।
