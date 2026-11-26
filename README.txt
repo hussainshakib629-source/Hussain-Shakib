@@ -1,13 +1,16 @@
-Sakib Studio Pro v1.1.0 — PERSONAL
+Sakib Studio Pro v1.1.1 — PERSONAL
 ====================================
 আপলোড: index.html, sw.js, manifest.webmanifest ও আইকনগুলো একসাথে আপলোড করুন।
 
-এই ভার্সনে যা যা আপডেট করা হয়েছে (50টা টুল, 11টা ক্যাটাগরি)
-- Smoke PNG Studio আপগ্রেড: নতুন Wisp Smoke ইঞ্জিন (৮টি স্মোক স্টাইল, PNG/JPG/SVG/EPS ও ইউনিক ZIP প্যাক) দিয়ে কন্টেন্ট রিপ্লেস করা হয়েছে, নাম রাখা হয়েছে Smoke PNG Studio।
-- ইনস্ট্যান্ট ফাস্ট ওপেনিং: Sakib Motif Loom, Vintage Frame Studio ও সব র‍্যাক-ভিত্তিক টুলে লেজি থাম্বনেইল রেন্ডারিং এবং হাব লোডার অপ্টিমাইজ করা হয়েছে—ক্লিক করার সাথে সাথেই টুল খুলবে।
-- Sakib Light FX Studio: মোবাইল পোর্ট্রেট ও ল্যান্ডস্কেপ প্রিভিউ ফিক্স।
-- Sakib AquaDrop Studio: সরাসরি ইউনিফর্ম ⬇ PNG · ⬇ JPG · ⬇ SVG · ⬇ EPS ডাউনলোড বাটন যুক্ত করা হয়েছে।
-- সব কন্টেন্ট টুলে ইউনিফায়েড টপ হেডার (ছবি + নাম + টুলের নাম) ডাউনলোড বারের ওপরে:
-  • মোবাইল পোর্ট্রেট: প্রোফাইল ও টুল হেডার → ডাউনলোড বার → প্রিভিউ → ক্যানভাস সাইজ (#১) → কাস্টমাইজেশন।
-  • মোবাইল ল্যান্ডস্কেপ ও ডেস্কটপ: পূর্ণ ডেস্কটপ স্প্লিট-স্ক্রিন লেআউট।
-- Occasion সেকশন (১২ মাসের ট্যাব, জানুয়ারিতে ২০২৭ টুলস), সার্কেল-গ্লো আইকন ও জুম-ইন লঞ্চ অ্যানিমেশন, এবং ক্রিসমাস পাসওয়ার্ড লক (90872)।
+এই ভার্সনে যা যা আপডেট করা হয়েছে (64টা টুল, 12টা ক্যাটাগরি)
+- নতুন ডেডিকেটেড সেকশনসমূহ:
+  • 🌙 Ramadan (আলাদা ট্যাব): Ramadan Mubarak 2027, Ramadan Niche 2027 এবং Islamic Geometric Atelier (রমজান/ইসলামিক প্যাটার্নসহ)।
+  • 💡 Lighting (আলাদা সেকশন): Sakib Light Studio Pro (নতুন), Sakib Glow Studio Pro, Sakib Light FX Studio, Sakib Starlight Pro, Lumi Bloom, FrostGlow Studio।
+  • 🧩 Elements (আলাদা সেকশন): Stock Evergreen Master (নতুন), Stock Niche Atelier 80 (নতুন), Sakib Ribbon Pro, Ribbon Studio Raster, Sakib Nouveau Atelier Pro, Vintage Frame Studio, Sakib Icon Studio, Sakib Grass Studio।
+  • 🎆 Overlays: Frostlight Studio, Festa Burst Studio, Smoke PNG Studio, Sakib AquaDrop Studio, Sakib Film Dust Studio, Vintage Grunge Overlay Studio।
+  • 🔁 Patterns: Seamless Pattern Atelier 80 (নতুন) + আগের সব প্যাটার্ন টুলস।
+- 🎉 Occasion (১২ মাসের ট্যাব):
+  • জানুয়ারি (৫টি): Sakib 2027 Poster Pro, 2027 Typography Studio, Sakib 2027 Calendar Pro, Sakib GlimmerForge Pro, Sakib New Year 2027 Pro।
+  • ফেব্রুয়ারি (৪টি): Valentine's Day 2027 Pro, Valentine Niche Master, Black History Mega 72, Chinese New Year 2027।
+- 🎄 Christmas: আগের ৫টি ক্রিসমাস টুল পাসওয়ার্ড (90872) দিয়ে লক করা।
+- sw.js ক্যাশ ভার্সন v1.1.1।
