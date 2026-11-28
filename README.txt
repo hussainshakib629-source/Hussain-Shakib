@@ -1,16 +1,13 @@
-Sakib Studio Pro v1.1.1 — PERSONAL
+Sakib Studio Pro v1.1.2 — PERSONAL
 ====================================
 আপলোড: index.html, sw.js, manifest.webmanifest ও আইকনগুলো একসাথে আপলোড করুন।
 
-এই ভার্সনে যা যা আপডেট করা হয়েছে (64টা টুল, 12টা ক্যাটাগরি)
-- নতুন ডেডিকেটেড সেকশনসমূহ:
-  • 🌙 Ramadan (আলাদা ট্যাব): Ramadan Mubarak 2027, Ramadan Niche 2027 এবং Islamic Geometric Atelier (রমজান/ইসলামিক প্যাটার্নসহ)।
-  • 💡 Lighting (আলাদা সেকশন): Sakib Light Studio Pro (নতুন), Sakib Glow Studio Pro, Sakib Light FX Studio, Sakib Starlight Pro, Lumi Bloom, FrostGlow Studio।
-  • 🧩 Elements (আলাদা সেকশন): Stock Evergreen Master (নতুন), Stock Niche Atelier 80 (নতুন), Sakib Ribbon Pro, Ribbon Studio Raster, Sakib Nouveau Atelier Pro, Vintage Frame Studio, Sakib Icon Studio, Sakib Grass Studio।
-  • 🎆 Overlays: Frostlight Studio, Festa Burst Studio, Smoke PNG Studio, Sakib AquaDrop Studio, Sakib Film Dust Studio, Vintage Grunge Overlay Studio।
-  • 🔁 Patterns: Seamless Pattern Atelier 80 (নতুন) + আগের সব প্যাটার্ন টুলস।
-- 🎉 Occasion (১২ মাসের ট্যাব):
-  • জানুয়ারি (৫টি): Sakib 2027 Poster Pro, 2027 Typography Studio, Sakib 2027 Calendar Pro, Sakib GlimmerForge Pro, Sakib New Year 2027 Pro।
-  • ফেব্রুয়ারি (৪টি): Valentine's Day 2027 Pro, Valentine Niche Master, Black History Mega 72, Chinese New Year 2027।
-- 🎄 Christmas: আগের ৫টি ক্রিসমাস টুল পাসওয়ার্ড (90872) দিয়ে লক করা।
-- sw.js ক্যাশ ভার্সন v1.1.1।
+এই ভার্সনে যা যা আপডেট করা হয়েছে (67টা টুল, 12টা ক্যাটাগরি)
+- 📐 Adobe Stock ভেক্টর আর্টবোর্ড রেজোলিউশন (১৫–৬৫ MP, ডিফল্ট ২০ MP ★):
+  • সব 60টি ভেক্টর (SVG / EPS) টুলে ক্যানভাস সাইজের ভেতরে "Vector Artboard (15–65 MP)" স্লাইডার ও কুইক চিপস (15, 20 ★, 25, 32, 45, 65 MP) যোগ করা হয়েছে।
+  • প্রতিটি এক্সপোর্ট করা SVG ও EPS ফাইলের width, height, viewBox এবং EPS BoundingBox অটোমেটিকভাবে নির্বাচিত আর্টবোর্ড রেজোলিউশনে (ডিফল্ট ২০ MP, সর্বনিম্ন ১৫ MP – সর্বোচ্চ ৬৫ MP) সেট থাকবে—কোনো লেয়ার বা গ্রেডিয়েন্ট না ভেঙে।
+  • পিওর ভিডিও, রাস্টার, প্রম্পট ও স্টক টুলস অপরিবর্তিত রাখা হয়েছে।
+- 🆕 ৩টি নতুন প্রো টুল যুক্ত:
+  • Patterns: Halftone & Illusion 180 Pro (১৮০টি সিমলেস হাফটোন ও অপটিক্যাল ইলিউশন) এবং Couture Seamless 240 Pro (২৪০টি ফ্ল্যাট-ভেক্টর কৌচার প্যাটার্ন)।
+  • Evergreen & Elements: Vector Silhouette Studio (২০০০ এডিটেবল ভেক্টর সিলুয়েট)।
+- sw.js ক্যাশ ভার্সন v1.1.2।
